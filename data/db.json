@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "name": "Cristiano Ronaldo",
+      "details": "Playing for Juventus Fc and Portugal National team",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "name": "Lionel Messi",
+      "details": "Playing for Fc Barcelona and Argentina National team",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "name": "Neymar Jr",
+      "details": "Playing for Paris-Saint-Germain and Brazil National team",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
